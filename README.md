@@ -73,9 +73,9 @@ This analysis enables data-driven decisions in areas like:
 
 * **🏗️ Urban planning and infrastructure — understanding density hotspots** *
 * **🏥 Healthcare and education policy — based on aging and fertility trends** *
-* **🌍 Migration management — tracking movement patterns* **
+* **🌍 Migration management — tracking movement patterns** *
 * **📊 Global development planning — aligning growth trends with sustainability goals** *
-* **🚀 How to Use / Navigate the Report** *
+# 🚀 How to Use / Navigate the Report
 Open the .pbix file in Power BI Desktop.
 Use the top navigation tabs to switch between report pages:
 Population Insights
@@ -96,11 +96,11 @@ Migration and Density Analysis
 Demographic Patterns
 Demographic Patterns
 
-* **🙌 Future Improvements / Next Steps** *
+# 🙌 Future Improvements / Next Steps
 * **🔄 Integrate real-time UN population projections API for live updates** *
 * **📉 Add historical trend analysis (2000–2025) to visualize changes over time** *
 * **🤖 Include interactive forecasting models using Power BI AI visuals** *
 * **☁️ Connect with SQL database or cloud data source for automated refresh** *
-* **🏁 Author & Credits** *
-Created by: Anshu Gupta – Data Analyst | Power BI Developer
-Dataset Source: Kaggle – Global Population Data
+# 🏁 Author & Credits
+* **Created by: Anshu Gupta – Data Analyst | Power BI Developer** *
+* **Dataset Source: Kaggle – Global Population Data** *
