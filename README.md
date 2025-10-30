@@ -1,7 +1,7 @@
 # Population-Analysis-2025
 
-* **🌍 2025 Global Population Analysis – Power BI Dashboard** *
-* **📘 Project Overview** *
+# 🌍 2025 Global Population Analysis – Power BI Dashboard
+# 📘 Project Overview
 The 2025 Global Population Analysis Power BI project provides a comprehensive demographic overview of the world’s population across 233 countries.
 It brings together data on population growth, fertility trends, migration, density, and demographic shifts, offering an interactive way to explore how populations evolve over time.
 
