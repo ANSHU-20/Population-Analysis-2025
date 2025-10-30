@@ -16,7 +16,7 @@ To analyze and visualize global population trends for 2025, focusing on:
 * **Migration patterns and population density comparisons** *
 * **Identifying high and low growth regions globally** *
 # 📊 Dataset Description
-* **Source: [Kaggle – Global Population Dataset]Global Population Data** *
+* **Source: [Kaggle – Global Population Dataset]https://www.kaggle.com/datasets/asadullahcreative/world-population-by-country-2025** *
 * **Size: 233 Countries / Regions** *
 * **Main Columns:** *
 Country
@@ -105,4 +105,4 @@ Demographic Patterns
 * **☁️ Connect with SQL database or cloud data source for automated refresh** *
 # 🏁 Author & Credits
 * **Created by: Anshu Gupta – Data Analyst | Power BI Developer** *
-* **Dataset Source: Kaggle – Global Population Data** *
+* **Dataset Source: Kaggle – https://www.kaggle.com/datasets/asadullahcreative/world-population-by-country-2025** *
