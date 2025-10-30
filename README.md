@@ -19,16 +19,16 @@ To analyze and visualize global population trends for 2025, focusing on:
 * **Source: [Kaggle – Global Population Dataset]https://www.kaggle.com/datasets/asadullahcreative/world-population-by-country-2025** *
 * **Size: 233 Countries / Regions** *
 * **Main Columns:** *
-Country
-Population (2025)
-Yearly Change (Growth)
-Net Change
-Fertility Rate
-Median Age
-Urban Population %
-World Share
-Land Area (Km²)
-Migrants
+* Country
+* Population (2025)
+* Yearly Change (Growth)
+* Net Change
+* Fertility Rate
+* Median Age
+* Urban Population %
+* World Share
+* Land Area (Km²)
+* Migrants
 Data was cleaned and transformed in Power Query within Power BI before visualization.
 
 # 🧠 Key Insights
@@ -87,16 +87,20 @@ This analysis enables data-driven decisions in areas like:
 * **Hover over visuals for interactive tooltips and use filters/slicers for deeper exploration.** *
 # 📊 Dashboard Previews
 Population Insights
-Population Insights
+<img width="900" height="507" alt="image" src="https://github.com/user-attachments/assets/57fced6b-1765-44c4-b939-e4a963c90905" />
+
 
 Growth and Trends Change
-Growth and Trends Change
+<img width="899" height="507" alt="image" src="https://github.com/user-attachments/assets/5209069c-e39d-4827-a892-cd80b072922e" />
+
 
 Migration & Density Analysis
-Migration and Density Analysis
+<img width="907" height="504" alt="image" src="https://github.com/user-attachments/assets/9e40b1c4-23d1-447c-bc2e-6eeabfc631df" />
+
 
 Demographic Patterns
-Demographic Patterns
+<img width="907" height="506" alt="image" src="https://github.com/user-attachments/assets/229286ea-fccd-4be3-93cb-6ce8434dcf1c" />
+
 
 # 🙌 Future Improvements / Next Steps
 * **🔄 Integrate real-time UN population projections API for live updates** *
